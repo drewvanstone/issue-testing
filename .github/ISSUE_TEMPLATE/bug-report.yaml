@@ -29,7 +29,7 @@ body:
   - type: textarea
     id: eksVersion
     attributes:
-      label: version
+      label: EKS Anywhere version
       value: |
         <details>
 
